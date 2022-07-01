@@ -7,7 +7,7 @@ Software: HTML, JavaScript, CSS
 Used JavaScript to display UFO data in a table and then manipulated the data with filters. Then added the data to an HTML file. 
 
 ## Results
-The [website](index.hmtl) for UFO sightings was created. 
+The website for UFO sightings was created. 
 
 ![UFOWeb](static/images/UFOWeb.png)
 
