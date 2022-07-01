@@ -7,7 +7,7 @@ Software: HTML, JavaScript, CSS
 Used JavaScript to display UFO data in a table and then manipulated the data with filters. Then added the data to an HTML file. 
 
 ## Results
-The webpage for UFO sightings was created. 
+The [website](index.hmtl) for UFO sightings was created. 
 
 ![UFOWeb](static/images/UFOWeb.png)
 
@@ -16,7 +16,7 @@ Users are able to filter through data easily by entering the date, city, state, 
 ![filterUFO](static/images/filterUFO.png)
 
 Observe filtered data.
-![sandUFO](static/images/sandUFO.png)
+![sandUFo](static/images/sandUFo.png)
 ## Summary
 A few drawbacks from this website is the outdated data and case-sensitivity when filtering the data.
 
